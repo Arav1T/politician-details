@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d291f2f.css",
+    "main.js": "/static/js/main.c993a0f2.js",
+    "static/js/787.27fa12fc.chunk.js": "/static/js/787.27fa12fc.chunk.js",
+    "static/media/RahulCon.png": "/static/media/RahulCon.a9c3e25ddadb39d38943.png",
+    "static/media/Rahul.png": "/static/media/Rahul.e2bec5baad6713826669.png",
+    "index.html": "/index.html",
+    "main.3d291f2f.css.map": "/static/css/main.3d291f2f.css.map",
+    "main.c993a0f2.js.map": "/static/js/main.c993a0f2.js.map",
+    "787.27fa12fc.chunk.js.map": "/static/js/787.27fa12fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d291f2f.css",
+    "static/js/main.c993a0f2.js"
+  ]
+}
